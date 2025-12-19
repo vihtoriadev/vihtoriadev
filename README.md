@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vihtoriadev&style=for-the-badge&color=blueviolet&label=Views">
+</div>
 
-<!--
-**vihtoriadev/vihtoriadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://imgs.search.brave.com/GqAm_Q1Jwub1eBkou1z6RBXUTOIRIQ1Z04ad0tvoDJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/YzU2bVVQSXFGeVVB/QUFBbS9oZWxsby1r/aXR0eS53ZWJw" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h1></h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **Discord: `vihtoriax`**
+ - [**Telegram**](https://t.me/vihtoriadev)
