@@ -7,8 +7,10 @@
 </div>
 
 <div align="center">
-  <h1></h1>
+  <h1>contato:</h1>
 </div>
 
  - **Discord: `vihtoriax`**
  - [**Telegram**](https://t.me/vihtoriadev)
+
+> **Sim, sou praticamente uma cópia do CiqueiraDev. Muehehehe :3**
