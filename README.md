@@ -8,11 +8,11 @@
 
 > [!IMPORTANT]
 > 💕 **Oi! Eu sou a Vih**  
-> **Amo programar, adoro hacking e sou completamente apaixonada por código 💻✨**
+> **Amo programar, adoro hacking e sou completamente apaixonada por código.**
 >
 > **Estou aqui apenas para te lembrar que toda ferramenta e conteúdo disponibilizados aqui são `exclusivamente para fins de estudo`, ok meu anjo? 🥰**  
 >  
-> **Fora isso, `você tem total liberdade e assume total responsabilidade` pelas suas próprias ações 😊**
+> **Fora isso, `VOCÊ` tem total liberdade e `ASSUME TOTAL RESPONSABILIDADE` pelas suas próprias ações 😊.**
 
 <div align="center">
   <a href="https://t.me/vihtoriadev">
