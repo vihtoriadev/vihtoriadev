@@ -14,8 +14,11 @@
 
 > [!IMPORTANT]
 > **Hi! I’m Vih**
+> 
 > **I love programming, I enjoy hacking, and I’m completely passionate about code.**
+> 
 > **I’m here just to remind you that every tool and all content provided here `are exclusively for study purposes`, okay?**
+> 
 > **Other than that, `YOU` have full freedom and `ASSUME FULL RESPONSIBILITY` for your own actions.**
 
 <div align="center">
