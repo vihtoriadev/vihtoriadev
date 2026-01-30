@@ -13,12 +13,10 @@
 </div>
 
 > [!IMPORTANT]
-> 💕 **Oi! Eu sou a Vih**  
-> **Amo programar, adoro hacking e sou completamente apaixonada por código.**
->
-> **Estou aqui apenas para te lembrar que toda ferramenta e conteúdo disponibilizados aqui são `exclusivamente para fins de estudo`, ok meu anjo? 🥰**  
->  
-> **Fora isso, `VOCÊ` tem total liberdade e `ASSUME TOTAL RESPONSABILIDADE` pelas suas próprias ações 😊.**
+> **Hi! I’m Vih**
+> **I love programming, I enjoy hacking, and I’m completely passionate about code.**
+> **I’m here just to remind you that every tool and all content provided here `are exclusively for study purposes`, okay?**
+> **Other than that, `YOU` have full freedom and `ASSUME FULL RESPONSIBILITY` for your own actions.**
 
 <div align="center">
   <a href="https://t.me/vihtoriadev">
