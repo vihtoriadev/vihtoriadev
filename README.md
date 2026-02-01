@@ -5,17 +5,14 @@
   <img 
     src="https://imgs.search.brave.com/GqAm_Q1Jwub1eBkou1z6RBXUTOIRIQ1Z04ad0tvoDJQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/YzU2bVVQSXFGeVVB/QUFBbS9oZWxsby1r/aXR0eS53ZWJw" 
     align="right" 
-    width="240"
+    width="220"
   />
 </div>
 
 > [!IMPORTANT]
-> **Hi! I’m Vih**
-> 
-> **I love programming, I enjoy hacking, and I’m completely passionate about code.**
-> 
-> **I’m here just to remind you that every tool and all content provided here `are exclusively for study purposes`, okay?**
-> 
+> **Hi! I’m Vih** <br>
+> **I love programming, I enjoy hacking, and I’m completely passionate about code.**<br>
+> **I’m here just to remind you that every tool and all content provided here `are exclusively for study purposes`, okay?**<br>
 > **Other than that, `YOU` have full freedom and `ASSUME FULL RESPONSIBILITY` for your own actions.**
 
 <div align="center">
