@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vihtoriadev&style=for-the-badge&color=blueviolet&label=Views">
-</div>
 
 #
 
