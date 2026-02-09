@@ -22,7 +22,5 @@
 
 #
   
-  <p>
-    discord: vihtoriax
-  </p>
+  **discord: vihtoriax**
 </div>
